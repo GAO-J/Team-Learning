@@ -62,9 +62,8 @@ sns.boxplot(data=data)
 
 
 
-    
-![png](Task02_files/Task02_6_1.png)
-    
+​    ![png](img/Task02_6_1.png)
+​    
 
 
 ## **2.2 多元异常点检测**
@@ -305,7 +304,7 @@ inliers1
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -422,7 +421,7 @@ outliers1
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -490,20 +489,18 @@ for k in [3,5,10]:
 ```
 
 
-    
-![png](Task02_files/Task02_28_0.png)
-    
-
-
-
-    
-![png](Task02_files/Task02_28_1.png)
+![png](img/Task02_28_0.png)
     
 
 
 
+![png](img/Task02_28_1.png)
     
-![png](Task02_files/Task02_28_2.png)
+
+
+
+
+![png](img/Task02_28_2.png)
     
 
 
@@ -544,11 +541,12 @@ outliers2
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
 </style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -611,7 +609,7 @@ inliers2
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -725,13 +723,13 @@ for k,v in ([1,5],[5,2]):
 ```
 
 
-    
-![png](Task02_files/Task02_34_0.png)
-    
+​    
+![png](img/Task02_34_0.png)
+​    
 
 
 
-    
-![png](Task02_files/Task02_34_1.png)
+
+![png](img/Task02_34_1.png)
     
 
