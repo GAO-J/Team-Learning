@@ -222,7 +222,7 @@ visualize(clf_name, X_train, y_train, X_test, y_test, y_train_pred,
 
 
 ​    
-![png](Task05_files/Task05_6_0.png)
+![png](img/Task05_6_0.png)
 ​    
 
 
@@ -277,7 +277,6 @@ visualize(clf_name, X_train, y_train, X_test, y_test, y_train_pred,
 ```
 
 
-​    
-![png](Task05_files/Task05_11_0.png)
+![png](img/Task05_11_0.png)
 ​    
 
